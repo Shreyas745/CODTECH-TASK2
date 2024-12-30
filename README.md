@@ -62,3 +62,6 @@ The **BMI Calculator App** is a simple application designed to calculate a user'
 - **Charts**: Display a graph showing BMI ranges.
 - **Multi-language Support**: Add translations for different languages.
 
+
+
+![image alt](https://github.com/Shreyas745/CODTECH-TASK2/blob/57a821fc2bebf74880652660b9484bd8c2956da1/Screenshot%202024-12-30%20205634.png)
